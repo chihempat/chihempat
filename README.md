@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter, Node, UI/UX
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with contribution to Flutter and IOT
-- 📫 How to reach me: @chihempat on twitter,github,insta ...
+- 📫 How to reach me: (https://twitter.com/chihempat)
 - 😄 Pronouns: He/His
 
 <!--
