@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IOT_Flutter
+- 🔭 I’m currently working on IOT_Flutter_APP
 - 🌱 I’m currently learning Flutter, Node, UI/UX
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with contribution to Flutter and IOT
