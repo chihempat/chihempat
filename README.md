@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on IOT_Flutter
+- 🌱 I’m currently learning Flutter, Node, UI/UX
+- 👯 I’m looking to collaborate on Flutter
+- 🤔 I’m looking for help with contribution to Flutter and IOT
+- 📫 How to reach me: @chihempat on twitter,github,insta ...
+- 😄 Pronouns: He/His
+
 <!--
 **chihempat/chihempat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
