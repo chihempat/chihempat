@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image title](image.exmaple.com)
+![Profile views](https://gpvc.arturio.dev/[chihempat])
 
 - 🔭 I’m currently working on IOT_Flutter_APP
 - 🌱 I’m currently learning Flutter, Node, UI/UX
