@@ -1,5 +1,4 @@
-### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/[chihempat])
+### Hi there 
 
 - 🔭 I’m currently working on IOT_Flutter_APP
 - 🌱 I’m currently learning Flutter, Node, UI/UX
