@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Profile views]https://gpvc.arturio.dev/chihempat
+![Profile views](https://gpvc.arturio.dev/chihempat)
+
 ![Chintan's Github Stats](https://github-readme-stats.vercel.app/api?username=chihempat&show_icons=true&theme=radical)
