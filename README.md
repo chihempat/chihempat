@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on flutter
 - 🤔 I’m looking for help with contribution to Flutter and IOT
 - 📫 How to reach me:  [Twitter](https://twitter.com/chihempat) 🐤
-                       [Instagram](https://instagram.com/chihemapt/) 😎
                        [LinkedIn](https://linkedin.com/in/chihempat) 👨
 - 😄 Pronouns: He/His
 
