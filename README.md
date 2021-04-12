@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on IOT_Flutter_APP
 - 🌱 I’m currently learning Flutter, Node, UI/UX
-- 👯 I’m looking to collaborate on flutter
-- 🤔 I’m looking for help with contribution to Flutter and IOT
+- 👯 I’m looking to collaborate on flutter/node
+- 🤔 I’m looking for help with contribution to Flutter
 - 📫 How to reach me:  [Twitter](https://twitter.com/chihempat) 🐤
                        [LinkedIn](https://linkedin.com/in/chihempat) 👨
 - 😄 Pronouns: He/His
