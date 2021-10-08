@@ -1,10 +1,7 @@
 ### Hi there 
 
-- 🔭 I’m currently working on Nodejs
-- 🌱 I’m currently learning Reactjs, JS, UI/UX, Node
-- 👯 I’m looking to collaborate on flutter/node/React
-- 📫 How to reach me:  [Twitter](https://twitter.com/chihempat) 🐤
-                       [LinkedIn](https://linkedin.com/in/chihempat) 👨
+- 🔭 I’m currently working on creating Frontend project with React
+- 🌱 I’m currently learning Reactjs and DSA
 - 😄 Pronouns: He/His
 
 <!--
@@ -21,7 +18,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/chihempat)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/chihempat)
+<br>
+<br>
+## Expertise
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=blue&style=for-the-badge" />
+<img align="left" alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?&style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-11924F?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<br>
+<br>
 
+## Learning
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<br>
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/chihempat)
 
