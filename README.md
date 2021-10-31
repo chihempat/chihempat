@@ -28,13 +28,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=blue&style=for-the-badge" />
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?&style=for-the-badge&logo=javascript&logoColor=yellow" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-11924F?&style=for-the-badge&logo=mongodb&logoColor=white" />
-<br>
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
 <br>
 
-## Learning
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<br>
-<br>
 
 ![Profile views](https://gpvc.arturio.dev/chihempat)
 
