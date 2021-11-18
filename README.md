@@ -1,7 +1,7 @@
 ### Hi there 
 
 - 🔭 I’m currently working on creating Frontend project with React
-- 🌱 I’m currently learning Reactjs and DSA
+- 🌱 I’m currently learning Typescript
 - 😄 Pronouns: He/His
 
 <!--
@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 <br>
 <br>
 ## Expertise
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=blue&style=for-the-badge" />
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/Javascript-blue?&style=for-the-badge&logo=javascript&logoColor=yellow" />
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-11924F?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=blue" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=blue&style=for-the-badge" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-11924F?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br>
 <br>
-
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/chihempat)
 
